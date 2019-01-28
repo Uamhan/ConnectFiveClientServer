@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"genesys_coding_chalange"}]

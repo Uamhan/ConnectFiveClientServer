@@ -20,21 +20,21 @@ enter the following comand to download sourcecode.
 
 ------------
 
-to compile the server/client files navigate to their respective folders within the repo and enter the following command.
+to compile the server/client files navigate to the connect5 folder insdie your interpreter and enter
 ```bash
  javac *.java
 ```
 **3.  Run Server**
 
 ------------
-To run ther server navigate to the directory where you compiled the java files and enter the following command.
+To run ther server navigate back to the main director and enter the following command.
 ```bash
- java ServerC5ServerApplication
+ java connect5.ServerC5ServerApplication
 ```
 **4.  Run Client**
 
 ------------
-To run ther client navigate to the directory where you compiled the java files and enter the following command.
+To run ther client navigate to the main directory and enter the following command.
 ```bash
- java C5ClientApplication
+ java connect5.C5ClientApplication
 ```
